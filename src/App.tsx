@@ -5,7 +5,7 @@ import Alert from "./components/alert";
 
 function App() {
   
-  const [activeVisible, setVisibility] = useState(false);
+  const [activeVisible, setVisibility] = useState(true);
 
   return (
     <div>
